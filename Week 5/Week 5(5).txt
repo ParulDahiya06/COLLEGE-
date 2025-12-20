@@ -1,0 +1,8 @@
+In this project, we call the same method (action()) for all animals. Even though the method name is the same, each animal behaves differently.
+For example:
+When action() is called for a dog, it walks
+When action() is called for an eagle, it flies
+When action() is called for a penguin, it swims
+This happens because each child class overrides the method and provides its own behaviour.
+This concept is called Polymorphism. It makes the program easy to manage
+New animal types can be added without changing existing code. The same method name can be reused for different behaviours. Code becomes cleaner and more flexible.
