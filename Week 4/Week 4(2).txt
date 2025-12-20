@@ -1,0 +1,1 @@
+The updated use case diagram includes short and clear descriptions for each use case, making it easy to understand what each function does. It shows how patients, doctors, and clinic staff interact with the clinic system to handle patient details, appointments, treatments, and doctor information. This makes the diagram clearer and ensures it meets the system requirements.
