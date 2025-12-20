@@ -1,5 +1,0 @@
-This project shows how object-oriented inheritance works using a simple university system.
-
-At the top, we have a Person class. This class contains information that is common to everyone in the university, such as ID and name. Instead of repeating this information in every class, we store it once in the Person class.
-The Student and Staff classes are created by inheriting from the Person class. This means both students and staff automatically get the ID and name from Person. This reduces code duplication and makes the program easier to manage.
-The Staff class is further divided into two types: General staff and Academic staff. These two classes inherit from the Staff class. General staff have additional information such as rate of pay, while Academic staff have number of publications. This shows multi-level inheritance, where a class inherits from another class that is already a child of a parent class.
